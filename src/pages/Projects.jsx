@@ -52,7 +52,7 @@ const projectData = [
 
 const Projects = () => {
   return (
-    <div className="min-h-screen p-6">
+    <div className="min-h-screen">
       <div className="flex justify-center">
         <h1 className="text-4xl font-bold text-orange-400 text-center border-4 border-gray-500 w-48 rounded-xl py-4 mb-10">
           Projects

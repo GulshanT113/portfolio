@@ -34,7 +34,7 @@ const projectData = [
 
 const Experience = () => {
   return (
-    <div className="p-6">
+    <div className="">
       {/* min-h-screen  */}
       <div className="flex justify-center">
         <h1 className="text-4xl font-bold text-orange-400 text-center border-4 border-gray-500 w-60 rounded-xl py-4 mb-10">

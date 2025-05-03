@@ -64,7 +64,7 @@ const Navbar = () => {
     <nav
       className={`sticky top-0 z-50 transition-transform duration-300 ${
         showNavbar ? "translate-y-0" : "-translate-y-full"
-      } py-4 `}
+      } p-4`}
     >
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-3xl font-bold text-orange-400">My Portfolio</div>

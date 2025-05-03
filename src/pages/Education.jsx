@@ -27,7 +27,7 @@ const educationData = [
 
 const Education = () => {
   return (
-    <div className="p-6">
+    <div className="">
       <div className='flex justify-center '>
       <h1 className="text-4xl font-bold text-orange-400 text-center border-4 border-gray-500 w-52 rounded-xl py-4 mb-10">Education</h1>
       </div>

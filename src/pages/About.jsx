@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     // <div className="min-h-screen flex justify-center  border-4 border-red-900">
-    <div className="flex flex-col justify-center p-8 ">
+    <div className="flex flex-col justify-center p-2">
       {/* <div className="bg-gray-900 m-8 p-8 w-full max-w-7xl shadow-xl border-2"> */}
       <div className="flex flex-col justify-center items-center">
       <h1 className="text-4xl border-gray-500 border-4 w-56 rounded-xl p-4 font-bold mb-10 text-center text-orange-400">

@@ -23,7 +23,7 @@ const KeySkills = () => {
           Key Skills
         </h2>
       </div>
-      <div className="bg-[rgb(12,12,12)] mx-8 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4 mb-8 rounded-xl p-4">
+      <div className="bg-[rgb(12,12,12)] grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4 mb-8 rounded-xl p-4">
         {skills.map((skill, index) => (
           <div
             key={index}
