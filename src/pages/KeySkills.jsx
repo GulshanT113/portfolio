@@ -17,7 +17,7 @@ const skills = [
 
 const KeySkills = () => {
   return (
-    <div className="px-4 py-10">
+    <div className="px-4 pb-4">
       <div className="flex justify-center">
         <h2 className="text-3xl sm:text-4xl font-bold text-center text-orange-500 mb-12 border-4 border-gray-500 p-4 w-64 rounded-xl">
           Key Skills
