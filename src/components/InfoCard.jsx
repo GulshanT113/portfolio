@@ -9,7 +9,7 @@ const InfoCard = ({
   url,
 }) => {
   return (
-    <div className=" sm:px-4 md:px-6 lg:px-8 py-4 w-full md:w-1/2 ">
+    <div className="p-2 sm:px-4 md:px-6 lg:px-8 py-4 w-full md:w-1/2 ">
       <div className="bg-[rgb(12,12,12)] shadow-xl rounded-xl p-6 w-full transition hover:shadow-2xl h-full">
         {/* Data Section */}
         <div className="text-4xl font-bold uppercase tracking-wide text-orange-400 font-semibold mb-2">

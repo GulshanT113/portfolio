@@ -72,7 +72,7 @@ const contactData = [
 
 const Contact = () => {
   return (
-    <div className="py-10">
+    <div className="py-10 px-2">
       <div className="flex justify-center">
         <h2 className="text-3xl sm:text-4xl font-bold text-center text-orange-500 mb-10 border-4 border-gray-500 p-4 w-64 rounded-xl">
           Contact Me
