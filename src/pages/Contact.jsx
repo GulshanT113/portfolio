@@ -77,9 +77,10 @@ const Contact = () => {
         <h2 className="text-3xl sm:text-4xl font-bold text-center text-orange-500 mb-10 border-4 border-gray-500 p-4 w-64 rounded-xl">
           Contact Me
         </h2>
-        
       </div>
-      <p className="pb-4 text-2xl text-center font-bold text-gray-500">Below are the details to reach out to me!</p>
+      <p className="pb-4 text-2xl text-center font-bold text-gray-500">
+        Below are the details to reach out to me!
+      </p>
       <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-1">
         {contactData.map((item, index) => (
           <li

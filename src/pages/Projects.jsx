@@ -4,7 +4,7 @@ import InfoCard from "../components/InfoCard";
 const projectData = [
   {
     section: "Nov 2024 - Feb 2025",
-    position: "CMI Web App (Checck Me In)",
+    position: "CMI Web App (Check Me In)",
     company: "RSK Business Solutions Pvt Ltd",
     tools_tech:
       "Reactjs, Routing, Material UI, Bootstrap CSS, Typescript, Formik & Yup, Redux, GitHub, Azure Devops, etc.",
@@ -13,7 +13,7 @@ const projectData = [
   },
   {
     section: "June 2024 - Oct 2024",
-    position: "CMI Mobile App (Checck Me In)",
+    position: "CMI Mobile App (Check Me In)",
     company: "RSK Business Solutions Pvt Ltd",
     tools_tech:
       "React Native, Routing, Material UI, Bootstrap CSS, Typescript, Formik & Yup, Redux, GitHub, Azure Devops, etc.",
