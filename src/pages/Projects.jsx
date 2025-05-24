@@ -3,6 +3,16 @@ import InfoCard from "../components/InfoCard";
 
 const projectData = [
   {
+    section: "April 2025",
+    position: "E-commerce Web App",
+    company: "Self Made",
+    tools_tech:
+      "Reactjs + Vite, Material UI, Tailwind@3 CSS, Formik & Yup, Context Api, Github, etc.",
+    description:
+      "Overview:- Develop a fully functional e-commerce web application that allows users to browse, search, and purchase products online. The platform will feature a responsive user interface, product listings with detailed information, a shopping cart checkout process is also there.",
+    url: "https://e-commerce-shoping-web-uupf.vercel.app/",
+  },
+  {
     section: "Nov 2024 - Feb 2025",
     position: "CMI Web App (Check Me In)",
     company: "RSK Business Solutions Pvt Ltd",
@@ -37,16 +47,6 @@ const projectData = [
       "Reactjs, Typescript, Routing, Formik & Yup, Tailwind CSS & Custom CSS, Github, Azure Dev, etc.",
     description:
       "Overview:- The Dynamic Forms project focused on developing a system that allows users to create and manage customized forms dynamically.",
-  },
-  {
-    section: "April 2025",
-    position: "E-commerce Web App",
-    company: "Self Made",
-    tools_tech:
-      "Reactjs + Vite, Material UI, Tailwind@3 CSS, Formik & Yup, Context Api, Github, etc.",
-    description:
-      "Overview:- Develop a fully functional e-commerce web application that allows users to browse, search, and purchase products online. The platform will feature a responsive user interface, product listings with detailed information, a shopping cart checkout process is also there.",
-    url: "https://e-commerce-shoping-web-uupf.vercel.app/",
   },
 ];
 

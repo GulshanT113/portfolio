@@ -21,14 +21,14 @@ const projectData = [
     position: "Technical Program Manager",
     company: "Geekster.in",
     description:
-      "Geekster is a great platform to learn modern software development technologies and prepare for interviews at top companies. Mentors provide strong support by resolving doubts, explaining logic-based problems, and helping students improve their analytical and problem-solving skills.",
+      "As a Technical Program Manager at Geekster, I was responsible for creating and uploading technical courses focused on software development and interview preparation. I also managed student conduct during online assessments by identifying instances of cheating through accuracy checks, conducting meetings with involved students, and taking appropriate disciplinary actions based on the outcomes.",
   },
   {
     section: "Sep 2022 - Nov 2022",
     position: "Teaching Assistant in (DSA)",
     company: "Geekster.in",
     description:
-      "During my time in this role, I have actively supported students in developing their problem-solving and logical thinking skills. I assist them when they encounter difficulties in understanding or building logic for given questions.",
+      "In this role, I have actively supported students in developing their problem-solving and logical thinking. I assist them when they encounter difficulties in understanding or building logic for given questions.",
   },
 ];
 
